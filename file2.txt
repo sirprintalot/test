@@ -5,9 +5,11 @@ Nulla facilisi. Sed ultricies ipsum sed sapien molestie hendrerit. Curabitur eu 
 =======
  Eru. Erurejeryjerj erg rw sr u ru j fj dfj df jdrj   td dd 
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque imperdiet non felis vel pellentesque. Duis sollicitudin tincidunt tempus. Praesent vitae augue ultrices, rhoncus neque in, posuere magna. Curabitur finibus massa id leo condimentum, eu luctus mauris vehicula. Aliquam pretium non nulla nec varius. Ut semper interdum orci, ut accumsan ligula convallis quis. Phasellus vel cursus libero. Donec dapibus orci hendrerit, malesuada ipsum quis, mattis augue. Donec euismod velit nec dapibus mollis. Morbi aliquam placerat interdum. Vivamus in quam lorem.
+>>>>>>> ver2
 
 
 
 
-Quisque posuere ante magna, sit amet ornare orci lobortis vel. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Suspendisse euismod odio sed orci lacinia gravida. Pellentesque id libero odio. Cras vulputate commodo quam sit amet faucibus. Duis faucibus et dui vitae sodales. Morbi eget mollis tortor. Morbi a nunc eget lorem molestie venenatis. Nulla facilisi. Mauris non justo pretium, tincidunt tellus eu, ullamcorper quam. Vivamus ut tortor ac odio suscipit iaculis nec vel nisi. Aenean fringilla volutpat nisl at fermentum. Duis consequat venenatis diam in dignissim. Curabitur dictum, metus vitae pellentesque varius, nunc arcu faucibus nunc, vel euismod lectus ligula non nulla. Pellentesque sed arcu tincidunt, fermentum purus sed, pharetra urna. Donec sit amet luctus tellus, eget congue mi.
+ Duis consequat venenatis diam in dignissim. Curabitur dictum, metus vitae pellentesque varius, nunc arcu faucibus nunc, vel euismod lectus ligula non nulla. Pellentesque sed arcu tincidunt, fermentum purus sed, pharetra urna. Donec sit amet luctus tellus, eget congue mi.
 >>>>>>> ver2

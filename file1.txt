@@ -8,5 +8,3 @@ gseh s s. Rtf sr rt srtu stu s s sh sh shdry y oktuk tk tie e
 
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque imperdiet non felis vel pellentesque. Duis sollicitudin tincidunt tempus. Praesent vitae augue ultrices, rhoncus neque in, posuere magna. Curabitur finibus massa id leo condimentum, eu luctus mauris vehicula. Aliquam pretium non nulla nec varius. Ut semper interdum orci, ut accumsan ligula convallis quis. Phasellus vel cursus libero. Donec dapibus orci hendrerit, malesuada ipsum quis, mattis augue. Donec euismod velit nec dapibus mollis. Morbi aliquam placerat interdum. Vivamus in quam lorem.
->>>>>>> ver2
